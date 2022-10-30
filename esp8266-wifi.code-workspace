@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp8266-wifi-1",
+			"path": "../esp8266-wifi-1"
+		}
+	],
+	"settings": {}
+}
